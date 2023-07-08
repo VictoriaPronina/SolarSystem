@@ -5,5 +5,5 @@ public class FeatureSun {
     String size;
 
     String temp;
-cd
+
 }
